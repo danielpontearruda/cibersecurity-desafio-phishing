@@ -5,8 +5,8 @@
 - Site Cloner não estava disponível;
 - Utilizei o Web Template, selecionei o template do Google.
 
-## Etapas de criação do Phshing
-# Antes de tudo, instalei e configurei o Kali Linux como máquina virtual através do VirtualBox. Defini a rede dele
+# Etapas de criação do Phshing
+## Antes de tudo, instalei e configurei o Kali Linux como máquina virtual através do VirtualBox. Defini a rede dele
 - Através do comando "setoolkit" no terminal do sistema, acessei a tela de opções disponíveis;
 - Na tela de opções disponíveis, selecionei a opção "1) Social-Engeneering Attacks" para acessar a aba de Engenharia Social da tela;
 - Na aba de Engenharia Social, selecionei a opção "2) Website Attack Vectors" para acessar as ferramentas disponíveis de ataques se utilizando de websites com Engenharia Social;
